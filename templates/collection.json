@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1649348782e82438fb": {
+      "type": "image-banner",
+      "blocks": {
+        "16493487823ba51379-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Global Village Collection",
+            "heading_size": "medium"
+          }
+        },
+        "16493487823ba51379-1": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to the Global Village. The first Modsus collection is here, and it's universal in nature. We're starting strong with timeless basics and staple pieces to fit you into the zeitgeist of now. Global Village is a clothing line that lets you celebrate global culture, locally and ethically. For us, sustainability is the name of the game. All clothes in this line are made from Tencel Fabric. Biodegradable and renewable, this fabric is built out of fast-growing and sustainably harvested botanical fibers. Less water usage than most materials, no harmful chemicals, and no microplastic pollution, Tencel makes our choice easy. We've incorporated recycled wooden buttons into our clothing and seeded cards for packaging purposes. More good news: we've partnered with One Tree . With each purchase, there will be three trees planted in the world. All because of you. Global Village is available now.",
+            "text_style": "body"
+          }
+        },
+        "16493487823ba51379-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16493487823ba51379-0",
+        "16493487823ba51379-1",
+        "16493487823ba51379-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/modsus-_headerwebsite.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1646677078b51f8e04": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "164667707870b3e94a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "164667707870b3e94a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "164667707870b3e94a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "164667707870b3e94a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "554dd38a-c55a-4f4c-81d0-6202a3165f07": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "164667707870b3e94a-0",
+        "164667707870b3e94a-1",
+        "164667707870b3e94a-2",
+        "164667707870b3e94a-3",
+        "554dd38a-c55a-4f4c-81d0-6202a3165f07"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "1649348782e82438fb",
+    "1646677078b51f8e04"
+  ]
+}
